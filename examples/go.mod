@@ -1,4 +1,4 @@
-module examples
+module github.com/lucas-escobar/gen/examples
 
 go 1.19
 
