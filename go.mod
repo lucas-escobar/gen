@@ -1,4 +1,4 @@
-module gorm.io/gen
+module github.com/lucas-escobar/gen
 
 go 1.18
 
